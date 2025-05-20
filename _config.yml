@@ -1,6 +1,6 @@
 title: Jekyll
 description: "My Jekyll Website"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "jekyll-action-test" # the subpath of your site, e.g. /blog
 theme: jekyll-theme-bugzilla
 plugins:
   - jekyll-redirect-from
